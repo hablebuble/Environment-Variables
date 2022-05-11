@@ -11,6 +11,7 @@
 		B9BF3CCD282A88E40000C1D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9BF3CCC282A88E40000C1D8 /* ContentView.swift */; };
 		B9BF3CCF282A88ED0000C1D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9BF3CCE282A88ED0000C1D8 /* Assets.xcassets */; };
 		B9BF3CD2282A88ED0000C1D8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9BF3CD1282A88ED0000C1D8 /* Preview Assets.xcassets */; };
+		B9BF3CD9282ACBFA0000C1D8 /* ColorSchemeSensitiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9BF3CD8282ACBF90000C1D8 /* ColorSchemeSensitiveView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B9BF3CCC282A88E40000C1D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B9BF3CCE282A88ED0000C1D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9BF3CD1282A88ED0000C1D8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B9BF3CD8282ACBF90000C1D8 /* ColorSchemeSensitiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSchemeSensitiveView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				B9BF3CCC282A88E40000C1D8 /* ContentView.swift */,
 				B9BF3CCE282A88ED0000C1D8 /* Assets.xcassets */,
 				B9BF3CD0282A88ED0000C1D8 /* Preview Content */,
+				B9BF3CD8282ACBF90000C1D8 /* ColorSchemeSensitiveView.swift */,
 			);
 			path = "Environment Variables";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9BF3CD9282ACBFA0000C1D8 /* ColorSchemeSensitiveView.swift in Sources */,
 				B9BF3CCD282A88E40000C1D8 /* ContentView.swift in Sources */,
 				B9BF3CCB282A88E40000C1D8 /* Environment_VariablesApp.swift in Sources */,
 			);
